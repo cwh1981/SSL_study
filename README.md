@@ -10,3 +10,6 @@
 
 3. Notion page  
 - https://www.notion.so/moducommunity/SSL-a619a4341b9742db82e1e6d50dfab99f?v=9caaf1752f5e4ed5bc5a638c0315edc7
+
+
+https://soyounson.github.io/Data2vec/
